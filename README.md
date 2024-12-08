@@ -1,6 +1,6 @@
 Image of my project:
 
-![Image of the Basketball scoreboard app]https://github.com/DanDucVira/SoloProject-BasketballScoreboard/blob/main/llScoreboardapp.png
+![Image of the Basketball scoreboard app](https://github.com/DanDucVira/SoloProject-BasketballScoreboard/blob/main/llScoreboardapp.png)
 
 
 
