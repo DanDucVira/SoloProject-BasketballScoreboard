@@ -25,25 +25,25 @@ function HthreePoint(){
 }
 
 function GonePoint(){
-    homeScore += 1;
-    gScore.textContent = homeScore;
-    console.log(homeScore);
+    guestScore += 1;
+    gScore.textContent = guestScore;
+    console.log(guestScore);
 }
 GonePoint();
 
 function GtwoPoint(){
-    homeScore += 2;
-    gScore.textContent = homeScore;
-    console.log(homeScore);
+    guestScore += 2;
+    gScore.textContent = guestScore;
+    console.log(hguestScore);
 }
 function GthreePoint(){
-    homeScore += 3;
-    gScore.textContent = homeScore;
+    guestScore += 3;
+    gScore.textContent = guestScore;
     console.log(homeScore);
 }
 function gReset(){
-    homeScore = 0;
-    gScore.textContent = homeScore;
+    guestScore= 0;
+    gScore.textContent = guestScore;
     console.log("reset Guest");
 }
 function hReset(){
