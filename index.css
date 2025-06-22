@@ -37,7 +37,7 @@ h3{
     height:120px;
     border: 1px soild white;
     margin-bottom: 25px;
-
+  
 
   
 }
@@ -47,6 +47,9 @@ h3{
     padding-top: 15px;
     padding: 5px;
     font-family: 'MyCustomFont';
+
+
+    
 }
 
 .btn-container{
